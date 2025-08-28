@@ -75,5 +75,6 @@ git add .
 git commit -m "Added README.md for Netflix Clone"
 git branch -M main
 git remote add origin https://github.com/harsh31tkd/Netflix.git
-git push -u origin main```
+git push -u origin main
+```
 
