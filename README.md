@@ -77,4 +77,6 @@ git branch -M main
 git remote add origin https://github.com/harsh31tkd/Netflix.git
 git push -u origin main
 ```
+---
 
+[video of Netflix clone(working)](https://screenapp.io/app/#/shared/OW7ObvH4mI)
