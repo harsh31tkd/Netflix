@@ -38,7 +38,8 @@ Netflix/
 ## ⚡ How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/harsh31tkd/Netflix.git```
+   git clone https://github.com/harsh31tkd/Netflix.git
+   ```
 Open the folder and run index.html in your browser.
 
 
