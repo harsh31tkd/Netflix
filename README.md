@@ -43,7 +43,7 @@ Netflix/
 Open the folder and run index.html in your browser.
 
 
-📸 Screenshots
+## 📸 Screenshots
 
 ![Screenshot](https://github.com/user-attachments/assets/e2a71124-0fb4-4755-b48e-7594c3aa0f09)
 
@@ -53,7 +53,7 @@ Open the folder and run index.html in your browser.
 - Use JavaScript for interactivity
 - Update layout to match latest Netflix design
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 
 Inspired by [Netflix](https://www.netflix.com/in/) design
 
