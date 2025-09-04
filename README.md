@@ -79,4 +79,11 @@ git push -u origin main
 ```
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License – feel free to use and modify it.
+
+Made with ❤️ by [Harsh](https://github.com/harsh31tkd)
+
+
 [video of Netflix clone(working)](https://screenapp.io/app/#/shared/OW7ObvH4mI)
