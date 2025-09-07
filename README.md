@@ -22,18 +22,20 @@ A simple **Netflix homepage clone** built using only **HTML and CSS**.
 ## 📂 Project Structure
 ```
 Netflix/
-│-- assets/
-│   │-- pics/
-│   │   │-- bg.jpg
-│   │   │-- logo.svg
+│-- assets/               # Folder for static assets (images, videos, etc.)
+│   │-- pics/             # Image files
+│   │   │-- bg.jpg        # Background image for landing page
+│   │   │-- logo.svg      # Netflix logo in SVG format
+│   │
+│   │-- videos/           # Video files
+│       │-- video.mp4     # Background/preview video
 │
-│   │-- videos/
-│       │-- video.mp4
-│
-│-- index.html
-│-- style.css
-│-- favicon.ico
-│-- README.md
+│-- index.html            # Main HTML file (Netflix landing page)
+│-- style.css             # CSS file for styling and responsiveness
+│-- favicon.ico           # Website favicon (small Netflix logo in browser tab)
+│-- README.md             # Project documentation
+│-- LICENSE               # License file (e.g., MIT License)
+
 ```
 ## ⚡ How to Run
 1. Clone the repository  
